@@ -1,24 +1,7 @@
-# README
+# Rails 5.2 app using Active Storage 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Rails 5.2 app using Active Storage and ImageMagick following the [***Rails 5.2: Active Storage and beyond***](https://evilmartians.com/chronicles/rails-5-2-active-storage-and-beyond). post from [***Martian Chronicles***](https://evilmartians.com) blog.
 
-Things you may want to cover:
+### Dependencies:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [MiniMagick](https://github.com/minimagick/minimagick) – A ruby wrapper for ImageMagick or GraphicsMagick command line.
